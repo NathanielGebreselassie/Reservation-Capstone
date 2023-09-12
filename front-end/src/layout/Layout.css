@@ -1,0 +1,18 @@
+.side-bar {
+  background-color: #232b84;
+  min-width: 200px;
+  flex: 1; /* Use flex to make it fill the remaining space */
+}
+
+
+.custom-btn {
+  width: 120px; /* Adjust the width as needed */
+  margin-right: 10px; /* Add spacing between buttons */
+  background-color: #232b84; /* Change the background color */
+  color: #FFFFFF; /* Change the text color */
+  border: none; /* Remove the default button border */
+}
+.custom-btn:hover {
+  background-color: #546de8; /* Change the background color on hover */
+}
+
