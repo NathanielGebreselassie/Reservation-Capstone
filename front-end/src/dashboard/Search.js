@@ -50,6 +50,7 @@ function Search(onCancel = () => { }) {
             value={mobile_number}
             placeholder="Enter Mobile Number"
             style={{ flex: "1", padding: "10px", borderRadius: "6px", marginLeft: "0" }}
+            pattern="[0-9\-]+"
           />
         </label>
         <button
