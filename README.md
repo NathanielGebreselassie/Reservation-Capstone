@@ -4,7 +4,7 @@ Restaurant Reservations is a comprehensive full-stack application designed to st
 
 Within the application, users can access daily reservation records, perform phone number-based searches, and allocate reservations to designated tables. The system also provides the flexibility to modify or cancel reservations. Additionally, users can create new reservations and introduce new table configurations.
 
-Deployed at: 
+Deployed at: https://restaurant-reservation-site-xfh9.onrender.com/dashboard
 
 ## Installation
 ### Clone the Repository
